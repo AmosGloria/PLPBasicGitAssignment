@@ -1,0 +1,31 @@
+# PLP Basic Git Assignment
+
+## Objective
+To familiarize with creating a GitHub repository, connecting it to a local folder, and making commits and pushes.
+
+## Steps
+
+1. **Create a GitHub Repository**
+   - Created a repository named `PLPBasicGitAssignment`.
+
+2. **Install Git**
+   - Installed Git from [Git for Windows](https://git-scm.com/download/win).
+
+3. **Set Up Local Repository**
+   - Initialized local repository with `git init`.
+
+4. **Connect to GitHub**
+   - Added remote repository URL with `git remote add origin <repository-url>`.
+
+5. **Create and Edit Files**
+   - Created `hello.txt` with the message "Hello, Git!".
+
+6. **Stage and Commit Changes**
+   - Staged file with `git add hello.txt`.
+   - Committed changes with `git commit -m "feat: Add hello.txt with a greeting"`.
+
+7. **Push Changes**
+   - Pushed changes with `git push -u origin master`.
+
+## Issues
+If issues are encountered, refer to the [GitHub Documentation](https://docs.github.com/en/github) or seek assistance.
